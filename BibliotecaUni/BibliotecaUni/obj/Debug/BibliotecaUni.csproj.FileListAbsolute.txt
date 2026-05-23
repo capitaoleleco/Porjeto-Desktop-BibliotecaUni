@@ -1,0 +1,16 @@
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\bin\Debug\BibliotecaUni.exe.config
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\bin\Debug\BibliotecaUni.exe
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\bin\Debug\BibliotecaUni.pdb
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.csproj.AssemblyReference.cache
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.Properties.Resources.resources
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.csproj.GenerateResource.cache
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.csproj.CoreCompileInputs.cache
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.exe
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.pdb
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.FormInicio.resources
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.FormConfiguracao.resources
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.FormCadastroLivro.resources
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.FormCadastroAluno.resources
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.FormEmprestimo.resources
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.FormPesquisar.resources
+C:\projetos-visual\BibliotecaUni\BibliotecaUni\obj\Debug\BibliotecaUni.FormLogin.resources
